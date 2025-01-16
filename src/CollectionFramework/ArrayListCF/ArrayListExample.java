@@ -27,7 +27,7 @@ public class ArrayListExample {
         System.out.println("After Remove method " + names);
 
         //Removing exact element
-        names.remove("zain");
+        names.remove("Hussain");
         System.out.println("After remove exact element " + names);
     }
 }
