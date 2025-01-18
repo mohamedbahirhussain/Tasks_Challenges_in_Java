@@ -9,7 +9,6 @@ public class SuperandThisKeyWord {
     }
 
     public void Setage(int age){
-        this.age = age; // --> this one is local variable
-        System.out.println(age);
+
     }
 }
