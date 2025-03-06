@@ -5,7 +5,7 @@ import java.awt.event.*;
 
 public class Day05 {
     public static void main(String[] args) {
-        JFrame frame = new JFrame("Name Validator.");
+        JFrame frame = new JFrame("Name Validator");
         JTextField textField = new JTextField(5);
         JLabel feedbackLabel = new JLabel("Enter exactly 5 characters. Last character must be an integer.");
 
