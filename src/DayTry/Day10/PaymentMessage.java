@@ -5,7 +5,7 @@ public class PaymentMessage {
         System.out.println("Your Payment Successfully done");
     }
 
-    void faipymntmessage(){
+    void failpymntmessage(){
         System.out.println("Your Payment Failed");
     }
 }
