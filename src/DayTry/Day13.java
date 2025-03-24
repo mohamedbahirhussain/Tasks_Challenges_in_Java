@@ -8,7 +8,7 @@ public class Day13 {
 
         System.out.println("befor swapping A = " + a + " B = " + b);
 
-        int c = 0;
+        int c = 25;
         c = a;
         a = b;
         b = c;
